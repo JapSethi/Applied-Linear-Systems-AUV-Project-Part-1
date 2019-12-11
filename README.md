@@ -14,8 +14,8 @@
 - Latex 
 
 #### Use of each file:
-- Midterm_Project_Japnit_Sethi.mlx - Executable file with learly defined problem statement and approach
-- Midterm_Project_Japnit_Sethi.mlx - Published Document for a quick check of Solutions and Code
-- animate_auv.p - Animation code used throughout the code for easy visual and intuitive check
-- auv_animate.mp4 - Sample Example of auv motion when animate_auv.p is executed
-- Midterm_Project_Data - Track of Iterations for Pole Placements method
+- **Midterm_Project_Japnit_Sethi.mlx** - Executable file with learly defined problem statement and approach
+- **Midterm_Project_Japnit_Sethi.pdf** - Published Document for a quick check of Solutions and Code
+- **animate_auv.p** - Animation code used throughout the code for easy visual and intuitive check
+- **auv_animate.mp4** - Sample Example of auv motion when animate_auv.p is executed
+- **Midterm_Project_Data** - Track of Iterations for Pole Placements method
