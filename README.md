@@ -9,7 +9,7 @@
 - Analyzed the open-loop and closed-loop stability of any state-space representation.
 - Designed linear state-feedback controllers using pole placement techniques.
 
-![](auv_animate.gif)<div align="center">
+<div align="center" > ![](auv_animate.gif) <\div>
 
 
 
