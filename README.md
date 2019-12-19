@@ -10,7 +10,7 @@
 - Designed linear state-feedback controllers using pole placement techniques.
 
 <p align="center">
-  <img width="460" height="300" src="![](auv_animate.gif)">
+ ![](auv_animate.gif)"
 </p>
 
 #### Languages Used:
