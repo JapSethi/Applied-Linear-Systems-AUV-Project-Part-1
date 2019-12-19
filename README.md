@@ -10,6 +10,7 @@
 - Designed linear state-feedback controllers using pole placement techniques.
 
 ![](AUVANIMATE.JPG)
+![](AUV_ANIMATE.MP4)
 
 #### Languages Used:
 - Matlab
