@@ -9,8 +9,9 @@
 - Analyzed the open-loop and closed-loop stability of any state-space representation.
 - Designed linear state-feedback controllers using pole placement techniques.
 
-![](AUVANIMATE.JPG)
-![](auv_animate.gif)
+<p align="center">
+  <img width="460" height="300" src="![](auv_animate.gif)">
+</p>
 
 #### Languages Used:
 - Matlab
